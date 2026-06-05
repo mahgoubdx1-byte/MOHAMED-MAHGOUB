@@ -1,0 +1,24 @@
+<style>
+body{background-color:#F4E1C1;}
+h1{color:#8B4513;
+text-align:center;}
+.media-container{
+display:flex;
+gap:20px;
+align-items:center;}
+.media-container img{width:600px;}
+.media-container video{width:400px;}
+<div class="box">
+<h1>SUDAN PYRAMIDS</h1>
+</div>
+.box{background-color:lightgray;
+padding:15px;
+border-radius:10px;}
+#last{
+       background-color:green;}
+
+
+
+
+
+</style>
